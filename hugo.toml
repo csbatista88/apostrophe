@@ -1,0 +1,11 @@
+baseURL = 'https://apostrophe-unix.netlify.app/'
+languageCode = 'en-us'
+title = 'into dev'
+theme = 'risotto'
+sectionPagesMenu = 'main'
+[params]
+  subtitle = 'vivendo cada dia'
+  [params.contact]
+    email = 'contato@christianbatista.info'
+    phone = '+1 202-555-1212'
+

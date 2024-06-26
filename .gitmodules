@@ -1,0 +1,3 @@
+[submodule "themes/risotto"]
+	path = themes/risotto
+	url = https://gitlab.com/christianbaptista/risotto.git
